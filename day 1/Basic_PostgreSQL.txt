@@ -1,6 +1,6 @@
 
 -- Create database
-CREATE DATABASE TEMP_FIRST;
+CREATE DATABASE day1DB;
 
 -- Create table
 CREATE TABLE student (
